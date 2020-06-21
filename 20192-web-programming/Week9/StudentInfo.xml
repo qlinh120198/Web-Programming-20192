@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href= "student.css"?>
+<!DOCTYPE student SYSTEM "Student.dtd">
+<student>
+    <name>Name: Nguyen Quang Linh</name>
+    <id>Student ID: 20162439</id>
+    <dob> DOB: 12 / 01 / 1998 </dob>
+    <city>City: Hanoi </city>
+    <email>Email: qlinh120198@gmail.com </email>
+    <phone>Phone: 0914372236 </phone>
+    <school>School: Hanoi University of Science and Technology </school>
+</student>
